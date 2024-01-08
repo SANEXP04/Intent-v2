@@ -208,6 +208,3 @@ dengan tampilan sebagai berikut :<br>
 
 ## Hasil RUN
 <p align="center">https://github.com/DYRHEEEN/App-Intent-V2/assets/151630441/e0d223b6-6dcc-4b70-a844-56092ff244ea</p>
-
-
-<p align="center">Copyrights &copy; Rhendy Diki Nugraha 2023</p>
