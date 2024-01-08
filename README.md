@@ -193,8 +193,8 @@ dengan tampilan sebagai berikut :<br>
     > Saya menambahkan sebuah button baru, yaitu button untuk membuka maps.
     
   - Dengan semua ini, kita akan mendapatkan tampilan desain seperti ini :<br>
-    ![image](https://github.com/DYRHEEEN/App-Intent-V2/assets/151630441/67c94768-5a9b-4967-9a9d-db948ef6160c)<br>
-    
+    <img width="342" alt="Launcher_logo_versi-02" src="https://github.com/SANEXP04/Intent-v2/assets/115678077/fa5aabae-81b1-4d30-8799-36416d231c19">
+
 - Tampilan desain activity_main.xml sudah selesai, saatnya kita mengedit MainActivity.java. Dan juga, karena kemarin diperintahkan untuk membuat tombol untuk membuka maps, maka disini Saya tambahkan lagi code implicit intent untuk membuka mapsnya. Tambahkan code berikut dibawah setContentView :
   ```
   ImageButton btnshowMap = findViewById(R.id.btnshowMap);
@@ -207,4 +207,4 @@ dengan tampilan sebagai berikut :<br>
 - Selesai, semua code sudah berhasil ditambah dan diedit.
 
 ## Hasil RUN
-<p align="center">https://github.com/DYRHEEEN/App-Intent-V2/assets/151630441/e0d223b6-6dcc-4b70-a844-56092ff244ea</p>
+https://github.com/SANEXP04/Intent-v2/assets/115678077/cd559c01-802f-4e14-b6da-ae1d69aad30f
